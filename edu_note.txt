@@ -1,0 +1,30 @@
+edu react 2020-03-06
+C:\Users\Administrator>node -v
+v12.16.1
+
+npm install -g create-react-app
+
+# 안되면 PC를 한번 재기동 한다.
+create-react-app sns-project
+
+npm install --global yarn
+
+yarn start
+
+
+git remote add origin https://github.com/Bruce-5/React-Management-Tutorial.git
+
+git push --set-upstream origin master
+
+
+
+npm install -g nodemon
+
+
+yarn dev
+
+
+
+git remote add origin https://github.com/Bruce-5/masksaja-master.git
+
+git push --set-upstream origin master
