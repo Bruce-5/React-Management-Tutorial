@@ -11,20 +11,7 @@ npm install --global yarn
 
 yarn start
 
-
-git remote add origin https://github.com/Bruce-5/React-Management-Tutorial.git
-
-git push --set-upstream origin master
-
-
-
 npm install -g nodemon
-
 
 yarn dev
 
-
-
-git remote add origin https://github.com/Bruce-5/masksaja-master.git
-
-git push --set-upstream origin master
